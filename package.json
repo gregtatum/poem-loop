@@ -1,0 +1,29 @@
+{
+  "name": "poem-loop",
+  "version": "1.0.0",
+  "description": "A requestAnimationFrame loop for visualizations, demos, experiments, art, and poems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatumcreative/poem-loop/"
+  },
+  "keywords": [
+    "requestAnimationFrame",
+    "visualizations",
+    "games",
+    "art",
+    "poems",
+    "loop",
+    "game loop"
+  ],
+  "author": "Greg Tatum",
+  "license": "MIT",
+  "dependencies": {
+    "events": "^1.0.2",
+    "lodash": "^2.4.1",
+    "raf": "^2.0.4"
+  }
+}
