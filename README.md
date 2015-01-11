@@ -25,6 +25,14 @@ Then in your code:
 		renderer.render();
 	});
 	
+## Event object
+
+The event object has the following values.
+
+ * `dt` - The change in time in milliseconds.
+ * `unitDt` - The change in time as a unit interval (0-1). Assumes 1 is equal to 16.6666 milliseconds.
+ * `now` - The current Date.now() in milliseconds.
+ * `elapsed` - The elapsed game time in milliseconds, starts at 0. Does not increment when the loop is stopped.
 
 ## Configuration
 
