@@ -1,8 +1,8 @@
 {
   "name": "poem-loop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A requestAnimationFrame loop for visualizations, demos, experiments, art, and poems.",
-  "main": "index.js",
+  "main": "lib/loop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
