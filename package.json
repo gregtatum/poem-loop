@@ -11,12 +11,12 @@
     "url": "https://github.com/tatumcreative/poem-loop/"
   },
   "keywords": [
-    "requestAnimationFrame",
-    "visualizations",
-    "games",
+    "programming-poem",
+    "visualization",
+    "game",
     "art",
-    "poems",
     "loop",
+    "requestAnimationFrame",
     "game loop"
   ],
   "author": "Greg Tatum",
