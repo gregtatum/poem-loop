@@ -1,6 +1,6 @@
 # poem-loop
 
-This module is a configurable event loop for visualizations, demos, experiments, art, and poems. It provides an `update` and `draw` event. It uses the [raf](https://www.npmjs.com/package/raf) module for the requestAnimationFrame.
+This module is a configurable event loop for visualizations, demos, experiments, art, and poems. It provides an `update` and `draw` event, as well as `updatedone` and `drawdone`. It uses the [raf](https://www.npmjs.com/package/raf) module for the requestAnimationFrame.
 
 Part of the [programming-poem](https://www.npmjs.com/browse/keyword/programming-poem) module series.
 
