@@ -1,6 +1,6 @@
 {
   "name": "poem-loop",
-  "version": "1.1.0",
+  "version": "1.0.5",
   "description": "A requestAnimationFrame loop for visualizations, demos, experiments, art, and poems.",
   "main": "lib/loop.js",
   "scripts": {
@@ -22,8 +22,6 @@
   "author": "Greg Tatum",
   "license": "MIT",
   "dependencies": {
-    "events": "^1.0.2",
-    "lodash.assign": "^3.1.0",
-    "raf": "^2.0.4"
+    "events": "^1.1.0"
   }
 }
