@@ -1,6 +1,6 @@
 {
   "name": "poem-loop",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A requestAnimationFrame loop for visualizations, demos, experiments, art, and poems.",
   "main": "lib/loop.js",
   "scripts": {
