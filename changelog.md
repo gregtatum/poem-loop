@@ -1,4 +1,4 @@
-#v1.0.6
+#v1.1.1
 
 Factored out 2 dependencies, and built a custom RAF that doesn't catch errors. The event object is now shared to avoid garbage collection. Updated dependencies.
 
